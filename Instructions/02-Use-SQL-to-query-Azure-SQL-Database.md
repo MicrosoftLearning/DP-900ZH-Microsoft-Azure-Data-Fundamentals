@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室 02：使用 SQL 查询 Azure SQL 数据库'
     module: '模块 02：探索 Azure 中的关系数据'
