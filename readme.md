@@ -1,4 +1,13 @@
-﻿# Microsoft Azure 数据基础知识
+**Important Notice!**
+
+This repo was replaced by a [new repo](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.zh-cn) on December 18th 2021. We're making this change to improve the localized version of this content and reduce the delta between English and localized content updates. 
+After a short interval, this repo will be archived.
+
+**Contributions**
+
+At this time, we are not accepting external contributions to this repo. If you have suggestions or spot any errors, please create a pull request or report an issue on the [new repo](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.zh-cn).
+
+# Microsoft Azure 数据基础知识
 
 此存储库包含 Microsoft 课程 [DP-900 *Microsoft Azure 数据基础知识*](https://docs.microsoft.com/zh-cn/learn/certifications/courses/dp-900t00)和 [Microsoft Learn 上的自定进度模块](https://docs.microsoft.com/zh-cn/users/23110622/collections/0kjyh8rn5gdrjj/)的动手实验室练习。这些实验室配合教材提供，你可以使用其描述的方法进行练习。 
 
